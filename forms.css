@@ -1,0 +1,13 @@
+body{
+    border-width: 500px;
+    background-color: blueviolet;
+
+}
+#main{
+    border: 2px solid black;
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+}
